@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[方杰的博客]]></title>
-  <link href="http://halooooJeffrey.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 算法 | 方杰的博客]]></title>
+  <link href="http://halooooJeffrey.github.io/blog/categories/suan-fa/atom.xml" rel="self"/>
   <link href="http://halooooJeffrey.github.io/"/>
   <updated>2014-08-10T13:39:12+08:00</updated>
   <id>http://halooooJeffrey.github.io/</id>
